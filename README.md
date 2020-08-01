@@ -1,2 +1,3 @@
 # Gender Detection using FingerPrint analysis
-In this project I used Convolutional Neural Network for gender detection . The coding is done into google colab using SCOFIng dataset.
+A convolutional neural network is used to predict whether the imported image is fingerprint of male or female, usinf Tensorflow.
+
